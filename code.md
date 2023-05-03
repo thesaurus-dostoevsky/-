@@ -15,7 +15,7 @@ g { color: Green }
 
 <g>DONE:</g><r>DONE:</r><o>DONE:</o><g>DONE:</g>
 
-9999999<span style="color:blue">some *blue* text</span> 88888
+9999999<span style="color:blue">some *blue* text</span> 888880909090
 
 
   
