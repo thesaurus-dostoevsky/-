@@ -13,10 +13,6 @@ g { color: Green }
 - <o>TODO:</o>888 Less important thing to do
 - <g>DONE:</g>8888 Breath deeply and improve karma 8
 
+<g>DONE:</g><r>DONE:</r><o>DONE:</o><g>DONE:</g>
+
 9999999<span style="color:blue">some *blue* text</span> 88888
-
-
-$${\color{lightblue}Light \space Blue}$$ 8888
-
-$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ 88888
- 
