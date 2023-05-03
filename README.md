@@ -1,2 +1,2 @@
-# entries
-Thesaurus entries
+# ттезаурус
+Статьи тезауруса
