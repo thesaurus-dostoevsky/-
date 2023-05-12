@@ -17,13 +17,10 @@ g { color: Green }
 
 9999999<span style="color:blue">some *blue* text</span> 888880909090
 
-style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" var
-style="border:0px;width:100%;height:500px"
   
 
   
-
-  
+    <iframe src="https://thesaurus-dostoevsky.github.io/test/index.html" style="position:fixed;top:0;left:0;bottom:0;right:0;width:100%;height:100%;border:none;margin:0;padding:0;overflow:hidden;z-index:999999;" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">  
 
     
     
