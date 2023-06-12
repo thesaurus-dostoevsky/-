@@ -1,1 +1,19 @@
-# Статьи тезауруса
+## Статьи тезауруса
+### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/histpoe)
+* [архетип](https://thesaurus-dostoevsky.github.io/Thesaurus/архетип)
+* [жанр](https://thesaurus-dostoevsky.github.io/Thesaurus/жанр)
+* [историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика)
+* [мотив](https://thesaurus-dostoevsky.github.io/Thesaurus/мотив)
+** [лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)
+* [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
+* [сюжет](https://thesaurus-dostoevsky.github.io/Thesaurus/сюжет)
+* [традиция](https://thesaurus-dostoevsky.github.io/Thesaurus/традиция)
+* [цитата](https://thesaurus-dostoevsky.github.io/Thesaurus/цитата)
+* [этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика)
+
+### [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/ethnopoe)
+* [ангел](https://thesaurus-dostoevsky.github.io/Thesaurus/ангел)
+* [дьявол](https://thesaurus-dostoevsky.github.io/Thesaurus/дьявол)
+* [канон, канонический](https://thesaurus-dostoevsky.github.io/Thesaurus/канон)
+* [обряд](https://thesaurus-dostoevsky.github.io/Thesaurus/обряд)
+* [чудо](https://thesaurus-dostoevsky.github.io/Thesaurus/чудо)
