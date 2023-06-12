@@ -1,3 +1,4 @@
+[На главную страницу](https://thesaurus-dostoevsky.github.io/)
 ## Статьи тезауруса
 ### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/histpoe)
 * [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
