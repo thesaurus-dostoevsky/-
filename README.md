@@ -4,7 +4,7 @@
 * [жанр](https://thesaurus-dostoevsky.github.io/Thesaurus/жанр)
 * [историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика)
 * [мотив](https://thesaurus-dostoevsky.github.io/Thesaurus/мотив)
-** [лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)
+    * [лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)
 * [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
 * [сюжет](https://thesaurus-dostoevsky.github.io/Thesaurus/сюжет)
 * [традиция](https://thesaurus-dostoevsky.github.io/Thesaurus/традиция)
