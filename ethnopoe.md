@@ -1,4 +1,3 @@
-[Назад](https://thesaurus-dostoevsky.github.io/Thesaurus/)
 ## [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/ethnopoe)
 * [ангел](https://thesaurus-dostoevsky.github.io/Thesaurus/ангел)
 * [дьявол](https://thesaurus-dostoevsky.github.io/Thesaurus/дьявол)
