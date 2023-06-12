@@ -1,10 +1,13 @@
 ## Статьи тезауруса
 ### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/histpoe)
+* [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
 * [архетип](https://thesaurus-dostoevsky.github.io/Thesaurus/архетип)
+* [евангельский текст](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)
 * [жанр](https://thesaurus-dostoevsky.github.io/Thesaurus/жанр)
 * [историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика)
 * [мотив](https://thesaurus-dostoevsky.github.io/Thesaurus/мотив)
     * [лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)
+* [предание](https://thesaurus-dostoevsky.github.io/Thesaurus/предание)
 * [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
 * [сюжет](https://thesaurus-dostoevsky.github.io/Thesaurus/сюжет)
 * [традиция](https://thesaurus-dostoevsky.github.io/Thesaurus/традиция)
