@@ -1,4 +1,3 @@
-[Назад](https://thesaurus-dostoevsky.github.io/Thesaurus/)
 ## [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/histpoe)
 * [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
 * [архетип](https://thesaurus-dostoevsky.github.io/Thesaurus/архетип)
