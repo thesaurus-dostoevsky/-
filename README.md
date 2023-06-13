@@ -5,6 +5,7 @@
 * [архетип](https://thesaurus-dostoevsky.github.io/Thesaurus/архетип)
 * [жанр](https://thesaurus-dostoevsky.github.io/Thesaurus/жанр)
 * [историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика)
+* [миф](https://thesaurus-dostoevsky.github.io/Thesaurus/миф)
 * [мотив](https://thesaurus-dostoevsky.github.io/Thesaurus/мотив)
     * [лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)
 * [предание](https://thesaurus-dostoevsky.github.io/Thesaurus/предание)
