@@ -17,6 +17,7 @@
 
 ### [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/ethnopoe)
 * [ангел](https://thesaurus-dostoevsky.github.io/Thesaurus/ангел)
+* [всечеловек](https://thesaurus-dostoevsky.github.io/Thesaurus/всечеловек)
 * [дьявол](https://thesaurus-dostoevsky.github.io/Thesaurus/дьявол)
 * [евангельский текст](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)
 * [канон, канонический](https://thesaurus-dostoevsky.github.io/Thesaurus/канон)
