@@ -35,11 +35,11 @@
 * [молитва](https://thesaurus-dostoevsky.github.io/Thesaurus/молитва)
 * [обряд](https://thesaurus-dostoevsky.github.io/Thesaurus/обряд)
 * [откровение](https://thesaurus-dostoevsky.github.io/Thesaurus/откровение)
-* [покаяние](https://thesaurus-dostoevsky.github.io/Thesaurus/покаяние)
 * [преображение](https://thesaurus-dostoevsky.github.io/Thesaurus/преображение)
 * [спасение](https://thesaurus-dostoevsky.github.io/Thesaurus/спасение)
 * [таинство](https://thesaurus-dostoevsky.github.io/Thesaurus/таинство)
   * [исповедь](https://thesaurus-dostoevsky.github.io/Thesaurus/исповедь)
+  * [покаяние](https://thesaurus-dostoevsky.github.io/Thesaurus/покаяние)
 * [чудо](https://thesaurus-dostoevsky.github.io/Thesaurus/чудо)
 
 ### [Другое](https://thesaurus-dostoevsky.github.io/Thesaurus/other)
