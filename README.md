@@ -3,6 +3,7 @@
 #### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика), [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика) 
 ### [Термины общей поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/theorpoe)
 * [хронотоп](https://thesaurus-dostoevsky.github.io/Thesaurus/хронотоп)
+* [цитата](https://thesaurus-dostoevsky.github.io/Thesaurus/цитата)
   
 ### [Термины исторической поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/histpoe)
 * [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
@@ -15,7 +16,6 @@
 * [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
 * [сюжет](https://thesaurus-dostoevsky.github.io/Thesaurus/сюжет)
 * [традиция](https://thesaurus-dostoevsky.github.io/Thesaurus/традиция)
-* [цитата](https://thesaurus-dostoevsky.github.io/Thesaurus/цитата)
 
 ### [Термины этнопоэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/ethnopoe)
 * [ангел](https://thesaurus-dostoevsky.github.io/Thesaurus/ангел)
