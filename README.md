@@ -2,10 +2,10 @@
 ## Словарные статьи
 #### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика), [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика) 
 ### [Термины общей поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/theorpoe)
-* [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
-* [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
 * [хронотоп](https://thesaurus-dostoevsky.github.io/Thesaurus/хронотоп)
 * [цитата](https://thesaurus-dostoevsky.github.io/Thesaurus/цитата)
+    * [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
+        * [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
   
 ### [Термины исторической поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/histpoe)
 * [архетип](https://thesaurus-dostoevsky.github.io/Thesaurus/архетип)
