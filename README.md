@@ -2,18 +2,18 @@
 ## Словарные статьи
 #### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика), [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика) 
 ### [Термины общей поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/theorpoe)
+* [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
+* [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
 * [хронотоп](https://thesaurus-dostoevsky.github.io/Thesaurus/хронотоп)
 * [цитата](https://thesaurus-dostoevsky.github.io/Thesaurus/цитата)
   
 ### [Термины исторической поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/histpoe)
-* [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
 * [архетип](https://thesaurus-dostoevsky.github.io/Thesaurus/архетип)
 * [жанр](https://thesaurus-dostoevsky.github.io/Thesaurus/жанр)
 * [миф](https://thesaurus-dostoevsky.github.io/Thesaurus/миф)
 * [мотив](https://thesaurus-dostoevsky.github.io/Thesaurus/мотив)
     * [лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)
 * [предание](https://thesaurus-dostoevsky.github.io/Thesaurus/предание)
-* [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
 * [сюжет](https://thesaurus-dostoevsky.github.io/Thesaurus/сюжет)
 * [традиция](https://thesaurus-dostoevsky.github.io/Thesaurus/традиция)
 
