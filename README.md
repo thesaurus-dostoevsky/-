@@ -42,6 +42,9 @@
   * [покаяние](https://thesaurus-dostoevsky.github.io/Thesaurus/покаяние)
 * [чудо](https://thesaurus-dostoevsky.github.io/Thesaurus/чудо)
 
+### [Философия](https://thesaurus-dostoevsky.github.io/Thesaurus/philosophy)
+* [общечеловек](https://thesaurus-dostoevsky.github.io/Thesaurus/общечеловек)
+
 ### [Другое](https://thesaurus-dostoevsky.github.io/Thesaurus/other)
 * [книга](https://thesaurus-dostoevsky.github.io/Thesaurus/книга)
 * [красота](https://thesaurus-dostoevsky.github.io/Thesaurus/красота)
