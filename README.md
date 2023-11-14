@@ -1,6 +1,7 @@
 [На главную страницу](https://thesaurus-dostoevsky.github.io/)
 ## Словарные статьи по рубрикам
 * статьи по [алфавиту](https://thesaurus-dostoevsky.github.io/Thesaurus/alph)
+  
 #### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика), [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика) 
 ### [Термины общей поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/theorpoe)
 * [хронотоп](https://thesaurus-dostoevsky.github.io/Thesaurus/хронотоп)
