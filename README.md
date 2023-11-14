@@ -19,6 +19,7 @@
 
 ### [Термины этнопоэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/ethnopoe)
 * [ангел](https://thesaurus-dostoevsky.github.io/Thesaurus/ангел)
+* [Библия](https://thesaurus-dostoevsky.github.io/Thesaurus/библия)
 * [благодать](https://thesaurus-dostoevsky.github.io/Thesaurus/благодать)
 * [вера](https://thesaurus-dostoevsky.github.io/Thesaurus/вера)
 * [всечеловек](https://thesaurus-dostoevsky.github.io/Thesaurus/всечеловек)
@@ -29,6 +30,7 @@
 * [дьявол](https://thesaurus-dostoevsky.github.io/Thesaurus/дьявол)
 * [евангельский текст](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)
 * [искупление](https://thesaurus-dostoevsky.github.io/Thesaurus/искупление)
+* [искушение](https://thesaurus-dostoevsky.github.io/Thesaurus/искушение)
 * [канон, канонический](https://thesaurus-dostoevsky.github.io/Thesaurus/канон)
 * [крест](https://thesaurus-dostoevsky.github.io/Thesaurus/крест)
 * [милость](https://thesaurus-dostoevsky.github.io/Thesaurus/милость)
