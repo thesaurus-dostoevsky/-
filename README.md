@@ -31,6 +31,7 @@
 * [вселенский](https://thesaurus-dostoevsky.github.io/Thesaurus/вселенский)  
 * [всечеловек](https://thesaurus-dostoevsky.github.io/Thesaurus/всечеловек)
 * [Господь](https://thesaurus-dostoevsky.github.io/Thesaurus/господь)
+* * [Христос](https://thesaurus-dostoevsky.github.io/Thesaurus/христос)
 * [добродетель](https://thesaurus-dostoevsky.github.io/Thesaurus/добродетель)
   * [милосердие](https://thesaurus-dostoevsky.github.io/Thesaurus/милосердие)
   * [смирение](https://thesaurus-dostoevsky.github.io/Thesaurus/смирение)
@@ -60,7 +61,6 @@
   * [исповедь](https://thesaurus-dostoevsky.github.io/Thesaurus/исповедь)
   * [крещение](https://thesaurus-dostoevsky.github.io/Thesaurus/крещение)
   * [покаяние](https://thesaurus-dostoevsky.github.io/Thesaurus/покаяние)
-* [Христос](https://thesaurus-dostoevsky.github.io/Thesaurus/христос)
 * [чудо](https://thesaurus-dostoevsky.github.io/Thesaurus/чудо)
 
 ### [Философия](https://thesaurus-dostoevsky.github.io/Thesaurus/philosophy)
