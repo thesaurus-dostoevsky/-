@@ -1,5 +1,5 @@
 [На главную страницу](https://thesaurus-dostoevsky.github.io/)
-## Словарные статьи по рубрикам
+## Словарные статьи
 
 #### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика), [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика) 
 ### [Термины общей поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/theorpoe)
