@@ -35,7 +35,7 @@
 
 Е
 
-17) [Евангельский текст](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)  
+[Евангельский текст](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)  
 
 Ж
 
