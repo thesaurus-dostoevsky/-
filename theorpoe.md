@@ -2,4 +2,4 @@
 * [хронотоп](https://thesaurus-dostoevsky.github.io/Thesaurus/хронотоп)
 * [цитата](https://thesaurus-dostoevsky.github.io/Thesaurus/цитата)
     * [реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)
-        * [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
+    * [аллюзия](https://thesaurus-dostoevsky.github.io/Thesaurus/аллюзия)
