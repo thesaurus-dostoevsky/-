@@ -135,4 +135,4 @@
 
 Э
 
-[Этнопоэтика.md](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика.md)  
+[Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика)  
