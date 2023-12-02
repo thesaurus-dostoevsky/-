@@ -67,6 +67,7 @@
 ### [Философия](https://thesaurus-dostoevsky.github.io/Thesaurus/philosophy)
 * [зло](https://thesaurus-dostoevsky.github.io/Thesaurus/зло)
 * [ложь](https://thesaurus-dostoevsky.github.io/Thesaurus/ложь)
+* [красота](https://thesaurus-dostoevsky.github.io/Thesaurus/красота)
 * [мистика](https://thesaurus-dostoevsky.github.io/Thesaurus/мистика)
 * [общечеловек](https://thesaurus-dostoevsky.github.io/Thesaurus/общечеловек)
 * [свобода](https://thesaurus-dostoevsky.github.io/Thesaurus/свобода)
@@ -74,4 +75,3 @@
 ### [Другое](https://thesaurus-dostoevsky.github.io/Thesaurus/other)
 * [воля](https://thesaurus-dostoevsky.github.io/Thesaurus/воля)
 * [книга](https://thesaurus-dostoevsky.github.io/Thesaurus/книга)
-* [красота](https://thesaurus-dostoevsky.github.io/Thesaurus/красота)
