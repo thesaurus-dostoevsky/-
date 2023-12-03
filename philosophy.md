@@ -1,5 +1,6 @@
 ## [Философия](https://thesaurus-dostoevsky.github.io/Thesaurus/philosophy)
 * [зло](https://thesaurus-dostoevsky.github.io/Thesaurus/зло)
+* [красота](https://thesaurus-dostoevsky.github.io/Thesaurus/красота)
 * [ложь](https://thesaurus-dostoevsky.github.io/Thesaurus/ложь)
 * [мистика](https://thesaurus-dostoevsky.github.io/Thesaurus/мистика)
 * [общечеловек](https://thesaurus-dostoevsky.github.io/Thesaurus/общечеловек)
