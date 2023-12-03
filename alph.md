@@ -18,7 +18,8 @@
 
 В
 
-[Вера](https://thesaurus-dostoevsky.github.io/Thesaurus/вера)  
+[Вера](https://thesaurus-dostoevsky.github.io/Thesaurus/вера) 
+[Вина](https://thesaurus-dostoevsky.github.io/Thesaurus/вина)
 [Воля](https://thesaurus-dostoevsky.github.io/Thesaurus/воля)  
 [Воскресение](https://thesaurus-dostoevsky.github.io/Thesaurus/воскресение)  
 [Вселенский](https://thesaurus-dostoevsky.github.io/Thesaurus/вселенский)  
@@ -26,7 +27,8 @@
 
 Г
 
-[Господь](https://thesaurus-dostoevsky.github.io/Thesaurus/господь)  
+[Господь](https://thesaurus-dostoevsky.github.io/Thesaurus/господь)
+[Грех](https://thesaurus-dostoevsky.github.io/Thesaurus/грех)
 
 Д
 
