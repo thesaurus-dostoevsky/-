@@ -2,7 +2,11 @@
 ## Словарные статьи
 * статьи по [алфавиту](https://thesaurus-dostoevsky.github.io/Thesaurus/alph)
   
-#### [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика), [Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика) 
+### Ключевые статьи
+* [евангельский текст](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)
+* [историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика)
+* [этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика)
+
 ### [Термины общей поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/theorpoe)
 * [хронотоп](https://thesaurus-dostoevsky.github.io/Thesaurus/хронотоп)
 * [цитата](https://thesaurus-dostoevsky.github.io/Thesaurus/цитата)
