@@ -1,3 +1,6 @@
 ## [Другое](https://thesaurus-dostoevsky.github.io/Thesaurus/other)
 * [воля](https://thesaurus-dostoevsky.github.io/Thesaurus/воля)
 * [книга](https://thesaurus-dostoevsky.github.io/Thesaurus/книга)
+* [радость](https://thesaurus-dostoevsky.github.io/Thesaurus/радость)
+* [семья](https://thesaurus-dostoevsky.github.io/Thesaurus/семья)
+* [сердце](https://thesaurus-dostoevsky.github.io/Thesaurus/сердце)
