@@ -1,6 +1,7 @@
 ## [Историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/histpoe)
 * [архетип](https://thesaurus-dostoevsky.github.io/Thesaurus/архетип)
 * [жанр](https://thesaurus-dostoevsky.github.io/Thesaurus/жанр)
+* [житие](https://thesaurus-dostoevsky.github.io/Thesaurus/житие)
 * [миф](https://thesaurus-dostoevsky.github.io/Thesaurus/миф)
 * [мотив](https://thesaurus-dostoevsky.github.io/Thesaurus/мотив)
     * [лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)
