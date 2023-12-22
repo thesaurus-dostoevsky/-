@@ -1,8 +1,12 @@
 [На главную страницу](https://thesaurus-dostoevsky.github.io/)
 <style>
-p {
-font-size: 150% !important;
-}
+  p {
+    font-size: 150% !important;
+  }
+  li {
+    font-size: 140% !important;
+  }
+
 </style>
 _**В. В. Борисова**_
 <p align="center"><b>Вступительная статья</b></p>
