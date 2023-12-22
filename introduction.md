@@ -1,7 +1,7 @@
 [На главную страницу](https://thesaurus-dostoevsky.github.io/)
 <style>
 p {
-front-size: 300% !important;
+font-size: 300% !important;
 }
 </style>
 _**В. В. Борисова**_
