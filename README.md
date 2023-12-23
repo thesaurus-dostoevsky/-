@@ -3,9 +3,10 @@
 * статьи по [алфавиту](https://thesaurus-dostoevsky.github.io/Thesaurus/alph)
   
 ### Ключевые статьи
-* [евангельский текст](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)
 * [историческая поэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика)
 * [этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика)
+* [православие](https://thesaurus-dostoevsky.github.io/Thesaurus/православие)
+* [«евангельский текст»](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)
 
 ### [Термины общей поэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/theorpoe)
 * [хронотоп](https://thesaurus-dostoevsky.github.io/Thesaurus/хронотоп)
@@ -49,6 +50,7 @@
 * [дьявол](https://thesaurus-dostoevsky.github.io/Thesaurus/дьявол)
 * [евангельский текст](https://thesaurus-dostoevsky.github.io/Thesaurus/евангельский_текст)
 * [закон](https://thesaurus-dostoevsky.github.io/Thesaurus/закон)
+* [икона](https://thesaurus-dostoevsky.github.io/Thesaurus/историческая_поэтика)
 * [искупление](https://thesaurus-dostoevsky.github.io/Thesaurus/искупление)
 * [искушение](https://thesaurus-dostoevsky.github.io/Thesaurus/искушение)
 * [истина](https://thesaurus-dostoevsky.github.io/Thesaurus/истина)
@@ -61,6 +63,7 @@
 * [обряд](https://thesaurus-dostoevsky.github.io/Thesaurus/обряд)
 * [откровение](https://thesaurus-dostoevsky.github.io/Thesaurus/откровение)
 * [праведность](https://thesaurus-dostoevsky.github.io/Thesaurus/праведность)
+* [православие](https://thesaurus-dostoevsky.github.io/Thesaurus/праведность)
 * [преображение](https://thesaurus-dostoevsky.github.io/Thesaurus/преображение)
 * [преступление](https://thesaurus-dostoevsky.github.io/Thesaurus/преступление)
 * [родной](https://thesaurus-dostoevsky.github.io/Thesaurus/родной)
