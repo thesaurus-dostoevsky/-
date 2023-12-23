@@ -55,6 +55,7 @@
 
 И
 
+[Икона](https://thesaurus-dostoevsky.github.io/Thesaurus/икона)  
 [Искупление](https://thesaurus-dostoevsky.github.io/Thesaurus/искупление)  
 [Искушение](https://thesaurus-dostoevsky.github.io/Thesaurus/искушение)  
 [Исповедь](https://thesaurus-dostoevsky.github.io/Thesaurus/исповедь)  
@@ -99,6 +100,7 @@
 
 [Покаяние](https://thesaurus-dostoevsky.github.io/Thesaurus/покаяние)  
 [Праведность](https://thesaurus-dostoevsky.github.io/Thesaurus/праведность)  
+[Православие](https://thesaurus-dostoevsky.github.io/Thesaurus/православие)  
 [Предание](https://thesaurus-dostoevsky.github.io/Thesaurus/предание)  
 [Преображение](https://thesaurus-dostoevsky.github.io/Thesaurus/преображение)  
 [Преступление](https://thesaurus-dostoevsky.github.io/Thesaurus/преступление)  
