@@ -132,6 +132,7 @@
 Т
 
 [Таинство](https://thesaurus-dostoevsky.github.io/Thesaurus/таинство)  
+[Тварь](https://thesaurus-dostoevsky.github.io/Thesaurus/тварь)  
 [Традиция](https://thesaurus-dostoevsky.github.io/Thesaurus/традиция)  
 
 У
@@ -154,4 +155,8 @@
 
 Э
 
-[Этнопоэтика.md](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика)  
+[Этнопоэтика](https://thesaurus-dostoevsky.github.io/Thesaurus/этнопоэтика)  
+
+Ю
+
+[Юродство](https://thesaurus-dostoevsky.github.io/Thesaurus/юродство)
