@@ -76,8 +76,10 @@
   * [исповедь](https://thesaurus-dostoevsky.github.io/Thesaurus/исповедь)
   * [крещение](https://thesaurus-dostoevsky.github.io/Thesaurus/крещение)
   * [покаяние](https://thesaurus-dostoevsky.github.io/Thesaurus/покаяние)
+* [тварь](https://thesaurus-dostoevsky.github.io/Thesaurus/тварь)
 * [храм](https://thesaurus-dostoevsky.github.io/Thesaurus/храм)
 * [чудо](https://thesaurus-dostoevsky.github.io/Thesaurus/чудо)
+* [юродство](https://thesaurus-dostoevsky.github.io/Thesaurus/юродство)
 
 ### [Философия](https://thesaurus-dostoevsky.github.io/Thesaurus/philosophy)
 * [жизнь](https://thesaurus-dostoevsky.github.io/Thesaurus/жизнь)
