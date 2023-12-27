@@ -42,6 +42,7 @@
 * [преображение](https://thesaurus-dostoevsky.github.io/Thesaurus/преображение)
 * [преступление](https://thesaurus-dostoevsky.github.io/Thesaurus/преступление)
 * [родной](https://thesaurus-dostoevsky.github.io/Thesaurus/родной)
+* [рождество](https://thesaurus-dostoevsky.github.io/Thesaurus/рождество)  
 * [совесть](https://thesaurus-dostoevsky.github.io/Thesaurus/совесть)
 * [соборность](https://thesaurus-dostoevsky.github.io/Thesaurus/соборность)
 * [сострадание](https://thesaurus-dostoevsky.github.io/Thesaurus/сострадание)
