@@ -114,6 +114,7 @@
 [Разум](https://thesaurus-dostoevsky.github.io/Thesaurus/разум)  
 [Реминисценция](https://thesaurus-dostoevsky.github.io/Thesaurus/реминисценция)  
 [Родной](https://thesaurus-dostoevsky.github.io/Thesaurus/родной)  
+[Рождество](https://thesaurus-dostoevsky.github.io/Thesaurus/рождество)  
 
 С
 
