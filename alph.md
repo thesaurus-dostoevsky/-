@@ -72,7 +72,8 @@
 
 Л
 
-[Лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)  
+[Лейтмотив](https://thesaurus-dostoevsky.github.io/Thesaurus/лейтмотив)
+[Литургия](https://thesaurus-dostoevsky.github.io/Thesaurus/литургия) 
 [Ложь](https://thesaurus-dostoevsky.github.io/Thesaurus/ложь)  
 [Любовь](https://thesaurus-dostoevsky.github.io/Thesaurus/любовь)  
 
@@ -98,6 +99,7 @@
 
 П
 
+[Пасха](https://thesaurus-dostoevsky.github.io/Thesaurus/пасха) 
 [Покаяние](https://thesaurus-dostoevsky.github.io/Thesaurus/покаяние)  
 [Праведность](https://thesaurus-dostoevsky.github.io/Thesaurus/праведность)  
 [Православие](https://thesaurus-dostoevsky.github.io/Thesaurus/православие)  
