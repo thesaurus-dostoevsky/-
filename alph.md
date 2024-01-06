@@ -10,6 +10,7 @@
 
 Б
 
+[Бес](https://thesaurus-dostoevsky.github.io/Thesaurus/бес)  
 [Бессмертие](https://thesaurus-dostoevsky.github.io/Thesaurus/бессмертие)  
 [Библия](https://thesaurus-dostoevsky.github.io/Thesaurus/библия)  
 [Благодать](https://thesaurus-dostoevsky.github.io/Thesaurus/благодать)  
@@ -55,6 +56,7 @@
 
 И
 
+[Идеал](https://thesaurus-dostoevsky.github.io/Thesaurus/идеал)  
 [Икона](https://thesaurus-dostoevsky.github.io/Thesaurus/икона)  
 [Искупление](https://thesaurus-dostoevsky.github.io/Thesaurus/искупление)  
 [Искушение](https://thesaurus-dostoevsky.github.io/Thesaurus/искушение)  
@@ -107,6 +109,7 @@
 [Преображение](https://thesaurus-dostoevsky.github.io/Thesaurus/преображение)  
 [Преступление](https://thesaurus-dostoevsky.github.io/Thesaurus/преступление)  
 [Природа](https://thesaurus-dostoevsky.github.io/Thesaurus/природа)  
+[Пророк](https://thesaurus-dostoevsky.github.io/Thesaurus/пророк)  
 
 Р
 
