@@ -27,6 +27,7 @@
 
 ### [Термины этнопоэтики](https://thesaurus-dostoevsky.github.io/Thesaurus/ethnopoe)
 * [ангел](https://thesaurus-dostoevsky.github.io/Thesaurus/ангел)
+* [бес](https://thesaurus-dostoevsky.github.io/Thesaurus/бес)
 * [бессмертие](https://thesaurus-dostoevsky.github.io/Thesaurus/бессмертие)
 * [Библия](https://thesaurus-dostoevsky.github.io/Thesaurus/библия)
 * [Бог](https://thesaurus-dostoevsky.github.io/Thesaurus/бог)
@@ -68,6 +69,7 @@
 * [православие](https://thesaurus-dostoevsky.github.io/Thesaurus/православие)
 * [преображение](https://thesaurus-dostoevsky.github.io/Thesaurus/преображение)
 * [преступление](https://thesaurus-dostoevsky.github.io/Thesaurus/преступление)
+* [пророк](https://thesaurus-dostoevsky.github.io/Thesaurus/пророк)
 * [родной](https://thesaurus-dostoevsky.github.io/Thesaurus/родной)
 * [рождество](https://thesaurus-dostoevsky.github.io/Thesaurus/рождество)
 * [совесть](https://thesaurus-dostoevsky.github.io/Thesaurus/совесть)
@@ -87,6 +89,7 @@
 ### [Философия](https://thesaurus-dostoevsky.github.io/Thesaurus/philosophy)
 * [жизнь](https://thesaurus-dostoevsky.github.io/Thesaurus/жизнь)
 * [зло](https://thesaurus-dostoevsky.github.io/Thesaurus/зло)
+* [идеал](https://thesaurus-dostoevsky.github.io/Thesaurus/идеал)
 * [ложь](https://thesaurus-dostoevsky.github.io/Thesaurus/ложь)
 * [любовь](https://thesaurus-dostoevsky.github.io/Thesaurus/любовь)
 * [красота](https://thesaurus-dostoevsky.github.io/Thesaurus/красота)
