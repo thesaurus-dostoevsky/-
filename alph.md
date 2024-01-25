@@ -103,6 +103,7 @@
 
 [Пасха](https://thesaurus-dostoevsky.github.io/Thesaurus/пасха)  
 [Покаяние](https://thesaurus-dostoevsky.github.io/Thesaurus/покаяние)  
+[Почва](https://thesaurus-dostoevsky.github.io/Thesaurus/почва)  
 [Праведность](https://thesaurus-dostoevsky.github.io/Thesaurus/праведность)  
 [Православие](https://thesaurus-dostoevsky.github.io/Thesaurus/православие)  
 [Предание](https://thesaurus-dostoevsky.github.io/Thesaurus/предание)  
