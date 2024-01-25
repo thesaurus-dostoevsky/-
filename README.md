@@ -65,6 +65,7 @@
 * [обряд](https://thesaurus-dostoevsky.github.io/Thesaurus/обряд)
 * [откровение](https://thesaurus-dostoevsky.github.io/Thesaurus/откровение)
 * [пасха](https://thesaurus-dostoevsky.github.io/Thesaurus/пасха)
+* [почва](https://thesaurus-dostoevsky.github.io/Thesaurus/почва)
 * [праведность](https://thesaurus-dostoevsky.github.io/Thesaurus/праведность)
 * [православие](https://thesaurus-dostoevsky.github.io/Thesaurus/православие)
 * [преображение](https://thesaurus-dostoevsky.github.io/Thesaurus/преображение)
