@@ -16,6 +16,7 @@
 [Благодать](https://thesaurus-dostoevsky.github.io/Thesaurus/благодать)  
 [Бог](https://thesaurus-dostoevsky.github.io/Thesaurus/бог)  
 [Богоматерь](https://thesaurus-dostoevsky.github.io/Thesaurus/богоматерь)  
+[Братство](https://thesaurus-dostoevsky.github.io/Thesaurus/братство)  
 
 В
 
